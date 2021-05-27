@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F8F5F5"
+        tools:context=".MainActivity">
+
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            <TextView
+                    android:id="@+id/Hheading"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:height="50dp"
+                    android:background="#F8F5F5"
+                    android:paddingLeft="100dp"
+                    android:text="@string/dsa_hub"
+                    android:textColor="@color/black"
+                    android:textSize="50dp"
+                    android:textStyle="bold" />
+
+            <TextView
+                    android:id="@+id/Htagline"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Get Your Doubt Cleared Regarding DSA And CRack all the Placements"
+                    android:textColor="@color/black"
+                    android:paddingLeft="20dp"/>
+
+            <Button
+                    android:id="@+id/Harray"
+                    android:layout_width="317dp"
+                    android:layout_height="70dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Array"/>
+
+            <Button
+                    android:id="@+id/Hstring"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="String" />
+
+            <Button
+                    android:id="@+id/Hmatrix"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Matrix" />
+
+            <Button
+                    android:id="@+id/Hsort"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Search And sort" />
+
+            <Button
+                    android:id="@+id/Hlinkedlist"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Linked List" />
+
+            <Button
+                    android:id="@+id/Hbinarytree"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Binary Trees" />
+
+            <Button
+                    android:id="@+id/Hstack"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Stack and Queues" />
+
+            <Button
+                    android:id="@+id/Hheap"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Heap" />
+
+            <Button
+                    android:id="@+id/Hgraph"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Graph" />
+
+            <Button
+                    android:id="@+id/Hdynamic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_marginBottom="30dp"
+                    android:height="80dp"
+                    android:text="Dynamic Programming" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Data Structure Application</string>
+    <string name="linked_list">Linked List</string>
+    <string name="array">Array</string>
+    <string name="button">Button</string>
+    <string name="sort_and_search">Sort and search</string>
+    <string name="matrix">Matrix</string>
+    <string name="binary_trees">Binary Trees</string>
+    <string name="heap">Heap</string>
+    <string name="graph">Graph</string>
+    <string name="string">String</string>
+    <string name="dsa_hub">DSA HUB</string>
+    <string name="this_is_header_text">This is Header Text</string>
+    <string name="this_is_description_text">This is Description Text</string>
+</resources>
