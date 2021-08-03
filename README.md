@@ -1,5 +1,9 @@
 # Data_Structure_Application
 
+This is a Sample DSA Application which provides different types of DSA questions for practice.
+
+It uses techniques like web Sracping and more in back hand for the same.
+
 # Developing Environment 
 
 ## Android 
@@ -34,30 +38,6 @@ The following features are provided in the current stable version:.
 Firebase is a mobile and web application development platform developed by Firebase, Inc. in 2011, then acquired by Google in 2014.As of March 2020, the Firebase platform has 19 products, which are used by more than 1.5 million apps.
 Analytics.
 
-### Some features and services provided by Firebase 
-
-Google Analytics
-Google Analytics is a cost-free app measurement solution that provides insights on app usage and user engagement.
-
-Develop.
-Firebase Cloud Messaging.
-Formerly known as Google Cloud Messaging (GCM), Firebase Cloud Messaging (FCM) is a cross-platform solution for messages and notifications for Android, iOS, and web applications, which as of 2016 can be used at no cost.
-
-Firebase Authentication.
-Firebase Authentication is a service that can authenticate users using only client-side code. It supports social login providers Facebook, GitHub, Twitter and Google as well as other service providers like Google Play Games, Apple, Yahoo, and Microsoft. Additionally, it includes a user management system whereby developers can enable user authentication with email and password login stored with Firebase.
-
-Firebase Realtime Database.
-Firebase provides a real-time database and back-end as a service. The service provides application developers an API that allows application data to be synchronized across clients and stored on Firebase's cloud.[26][27] The company provides client libraries that enable integration with Android, iOS, JavaScript, Java, Objective-C, Swift and Node.js applications. The database is also accessible through a REST API and bindings for several JavaScript frameworks such as AngularJS, React, Ember.js and Backbone.js.[28] The REST API uses the Server-Sent Events protocol, which is an API for creating HTTP connections for receiving push notifications from a server. Developers using the realtime database can secure their data by using the company's server-side-enforced security rules.
-
-Cloud Firestore.
-On January 31, 2019, Cloud Firestore was officially brought out of beta, making it an official product of the Firebase lineup.It is the successor to Firebase's original databasing system, Real-time Database, and allows for nested documents and fields rather than the tree-view provided in the Real-time Database.
-
-Firebase Storage.
-Firebase Storage provides secure file uploads and downloads for Firebase apps, regardless of network quality, to be used for storing images, audio, video, or other user-generated content. It is backed by Google Cloud Storage.
-
-Firebase Hosting.
-
-Firebase Hosting is a static and dynamic web hosting service that launched on May 13, 2014. It supports hosting static files such as CSS, HTML, JavaScript and other files, as well as support through Cloud Functions.The service delivers files over a content delivery network (CDN) through HTTP Secure (HTTPS) and Secure Sockets Layer encryption (SSL). Firebase partners with Fastly, a CDN, to provide the CDN backing Firebase Hosting. The company states that Firebase Hosting grew out of customer requests; developers were using Firebase for its real-time database but needed a place to host their content.
 
 # Versions used 
 
@@ -72,3 +52,14 @@ gradle version 3.6.0
 ## Android Studio Version 
 
 android studio 3.6.0
+
+### Made with ❤️by Shantam Sultania
+
+#### About me
+
+I am JAVA and Python based application developer, I have won some hackathons as well as a title of Alexa student Infulencer from amazon, Postman Student Expert and more.
+ 
+You can find me at:-
+[Linkedin](https://www.linkedin.com/in/shantam-sultania-737084175/) or [Github](https://github.com/shantamsultania) .
+
+Happy coding ❤️ .
